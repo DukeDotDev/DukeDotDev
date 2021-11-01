@@ -1,4 +1,4 @@
-- I’m @yobekud, call me Dukeboy, and I work in Linux terminal, node.js and Unity c++
+- Yo, I’m @yobekud, call me Dukeboy, and I work in Linux terminal, node.js and Unity c++
 - He/She/They (Genderfluid)
 - Demipansexual
 - Discord: D̵̄̇û̸̌k̸̘̀e̸͐͠b̸͒̏o̵͖͂ý̸͠#8353
