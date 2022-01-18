@@ -1,6 +1,5 @@
 - Yo, I’m @yobekud, call me Duke, and I work in Linux terminal, node.js and Unity c++
-- He/She/They (Genderfluid)
-- Demipansexual
-- Discord: D̵̄̇û̸̌k̸̘̀e̸͐͠#8353
-- Anyways, back to making a custom Discord client for my chromebook.
+- https://en.pronouns.page/@Duke.Dev
+- Discord: Duke.Dev#8353
+- Anyways, back to making a Discord bot.
 - Peace!
