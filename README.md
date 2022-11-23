@@ -1,5 +1,4 @@
-- Yo, I’m @yobekud, call me Duke, and I work in Linux terminal, node.js and Unity c++
-- https://en.pronouns.page/@Duke.Dev
-- Discord: Duke.Dev#8353
-- Anyways, back to making a Discord bot.
-- Peace!
+- Yo, I’m @yobekud, call me Duke
+- I work in Linux terminal, node.js and Unity c++
+- https://en.pronouns.page/@.Duke
+- Discord: .Duke#8353
