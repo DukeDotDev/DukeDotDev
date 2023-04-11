@@ -18,7 +18,7 @@
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DukeDotDev/DukeDotDev/main/UE_Logo_stacked_unreal-engine_black.svg" alt="unrealengine5" width="40" height="40"/> </a>
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DukeDotDev/DukeDotDev/main/UE_Logo_stacked_unreal-engine_white.svg" alt="unrealengine5" width="40" height="40"/> </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dukedotdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dukedotdev" /></p>
