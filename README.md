@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://discord.gg/TKpuRcuF8k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TKpuRcuF8k" height="30" width="40" /></a>
 </p>
-<h3 align="center">Languages I Know:</h3>
+<h3 align="center">What I Know:</h3>
 <p align="center"> 
 
 <p align="center"> 
