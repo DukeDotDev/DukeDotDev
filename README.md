@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm .Duke, also known as Duke.Dev</h1>
+<h1 align="center">Hey 👋, I'm dukedotdev!</h1>
 <h3 align="center">I code things, mostly in Rec Room using Cv2. Majority of my repos are private.</h3>
 
 
