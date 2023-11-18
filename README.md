@@ -1,14 +1,6 @@
 <h1 align="center">Hey 👋, I'm dukedotdev!</h1>
 <h3 align="center">I code things, mostly in Rec Room using Cv2. Majority of my repos are private.</h3>
 
-
-
-
-
-<h3 align="center">Interested in the circuits side of Rec Room? Join me on my discord!</h3>
-<p align="center">
-<a href="https://discord.gg/TKpuRcuF8k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TKpuRcuF8k" height="30" width="40" /></a>
-</p>
 <h3 align="center">What I Know:</h3>
 <p align="center"> 
 
