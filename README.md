@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm dukedotdev!</h1>
 <h3 align="center">I code things, mostly in Rec Room using Cv2. Majority of my repos are private.</h3>
 
-<h2> align="center">IMPORTANT: Any unverified commits before 12/21/2023 are legitimate.</h2>
+<h2 align="center">IMPORTANT: Any unverified commits before 12/21/2023 are legitimate.</h2>
 
 <h3 align="center">What I Know:</h3>
 <p align="center"> 
