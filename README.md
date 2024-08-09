@@ -1,1 +1,1 @@
-i code things sometimes, ill change this later :3
+i code things sometimes, but not very often
